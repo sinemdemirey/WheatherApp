@@ -1,5 +1,5 @@
 # WheatherApp
-## What did I learned in this project?
+## What did I learn in this project?
 - How Web API's work?
 - User Location Detection with Core Location
 - Creating requests with URLSession
